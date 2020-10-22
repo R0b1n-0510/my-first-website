@@ -42,10 +42,10 @@ h2{
 	font-weight: bold;
 }
 
-.this{
+.inputfield{
  color: #808080;
  background-color: #000000cc;
-};
+}
 
 input[type=submit]{
 	width: 100%;
